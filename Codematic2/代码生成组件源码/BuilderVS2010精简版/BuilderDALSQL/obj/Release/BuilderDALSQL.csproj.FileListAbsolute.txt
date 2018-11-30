@@ -1,0 +1,7 @@
+E:\C#源码\动软代码生成器\Codematic2\代码生成组件源码\BuilderVS2010精简版\BuilderDALSQL\bin\Release\Maticsoft.BuilderDALSQL.dll
+E:\C#源码\动软代码生成器\Codematic2\代码生成组件源码\BuilderVS2010精简版\BuilderDALSQL\bin\Release\Maticsoft.CodeHelper.dll
+E:\C#源码\动软代码生成器\Codematic2\代码生成组件源码\BuilderVS2010精简版\BuilderDALSQL\bin\Release\Maticsoft.IBuilder.dll
+E:\C#源码\动软代码生成器\Codematic2\代码生成组件源码\BuilderVS2010精简版\BuilderDALSQL\bin\Release\Maticsoft.IDBO.dll
+E:\C#源码\动软代码生成器\Codematic2\代码生成组件源码\BuilderVS2010精简版\BuilderDALSQL\bin\Release\Maticsoft.Utility.dll
+E:\C#源码\动软代码生成器\Codematic2\代码生成组件源码\BuilderVS2010精简版\BuilderDALSQL\obj\Release\BuilderDALSQL.csprojResolveAssemblyReference.cache
+E:\C#源码\动软代码生成器\Codematic2\代码生成组件源码\BuilderVS2010精简版\BuilderDALSQL\obj\Release\Maticsoft.BuilderDALSQL.dll

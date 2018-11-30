@@ -1,0 +1,6 @@
+E:\C#源码\动软代码生成器\Codematic2\代码生成组件源码\BuilderVS2010精简版\BuilderDALTranParam\bin\Release\Maticsoft.BuilderDALTranParam.dll
+E:\C#源码\动软代码生成器\Codematic2\代码生成组件源码\BuilderVS2010精简版\BuilderDALTranParam\bin\Release\Maticsoft.CodeHelper.dll
+E:\C#源码\动软代码生成器\Codematic2\代码生成组件源码\BuilderVS2010精简版\BuilderDALTranParam\bin\Release\Maticsoft.IBuilder.dll
+E:\C#源码\动软代码生成器\Codematic2\代码生成组件源码\BuilderVS2010精简版\BuilderDALTranParam\bin\Release\Maticsoft.IDBO.dll
+E:\C#源码\动软代码生成器\Codematic2\代码生成组件源码\BuilderVS2010精简版\BuilderDALTranParam\bin\Release\Maticsoft.Utility.dll
+E:\C#源码\动软代码生成器\Codematic2\代码生成组件源码\BuilderVS2010精简版\BuilderDALTranParam\obj\Release\Maticsoft.BuilderDALTranParam.dll

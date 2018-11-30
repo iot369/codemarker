@@ -1,0 +1,6 @@
+E:\C#源码\动软代码生成器\Codematic2\代码生成组件源码\BuilderVS2010精简版\BuilderModel\bin\Release\Maticsoft.BuilderModel.dll
+E:\C#源码\动软代码生成器\Codematic2\代码生成组件源码\BuilderVS2010精简版\BuilderModel\bin\Release\Maticsoft.CodeHelper.dll
+E:\C#源码\动软代码生成器\Codematic2\代码生成组件源码\BuilderVS2010精简版\BuilderModel\bin\Release\Maticsoft.IBuilder.dll
+E:\C#源码\动软代码生成器\Codematic2\代码生成组件源码\BuilderVS2010精简版\BuilderModel\bin\Release\Maticsoft.IDBO.dll
+E:\C#源码\动软代码生成器\Codematic2\代码生成组件源码\BuilderVS2010精简版\BuilderModel\bin\Release\Maticsoft.Utility.dll
+E:\C#源码\动软代码生成器\Codematic2\代码生成组件源码\BuilderVS2010精简版\BuilderModel\obj\Release\Maticsoft.BuilderModel.dll
